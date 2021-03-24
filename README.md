@@ -1,2 +1,2 @@
-# 10 Days of JavaScript
+# 10 Days of JavaScript - Hacker Rank
 
